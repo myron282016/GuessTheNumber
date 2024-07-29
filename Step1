@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Guess the Number Game</title>
-  </head>
-<body>
-    <div id="game-container">
-        <h1></h1>  
-       <p></p>
