@@ -1,0 +1,15 @@
+<!DOCTYPE html>: This declaration defines the document type and version of HTML. It's essential as it helps the browser understand how to render the content correctly.
+
+<html>: This is the root element of the HTML document. All other elements are contained within this tag.
+
+<head>: The head section contains meta-information about the document, such as the title, styles, scripts, and other meta tags. It doesn't display content directly on the page.
+
+<title>Guess the Number Game</title>: This sets the title of the web page, which is displayed on the browser tab and in search engine results.
+
+<body>: The body section contains the content of the HTML document, which is displayed on the web page.
+
+<div id="game-container">: This <div> element serves as a container for the game's content. The id attribute uniquely identifies this container, allowing it to be styled or manipulated with CSS or JavaScript.
+
+<h1>: This is a heading tag, typically used for the main heading of the page or section. In this context, it might display the title or main message of the game, like "Guess the Number."
+
+<p>: This is a paragraph tag used for text content. It could be used to display instructions, messages, or other text related to the game.
