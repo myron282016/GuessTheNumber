@@ -1,0 +1,4 @@
+function  {
+    const userGuess = parseInt(document.getElementById('guess').value);
+    const message = document.getElementById('message');
+    Attempts++;
